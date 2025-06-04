@@ -14,3 +14,4 @@ print("Server replies:", data)
 
 # Step 4: Close connection
 client_socket.close()
+#me bombocclaty
